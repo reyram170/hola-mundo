@@ -2,4 +2,4 @@
 Mi primer repositorio.
 
 Autor: Rey Ram.
-Fecha:6 de febrero.
+Fecha:6 de febrero 2022.
